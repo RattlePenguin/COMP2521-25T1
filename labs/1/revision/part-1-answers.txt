@@ -1,0 +1,131 @@
+
+NOTE: Write your answers to Part 1 here!
+
+=================================
+    Program 1: listAddStart.c
+=================================
+
+Paste the error message here:
+
+
+
+Briefly explain why the error occurred:
+
+
+
+Briefly describe how the program can be fixed:
+
+
+
+=================================
+    Program 2: shuffleArray.c
+=================================
+
+Paste the error message here:
+
+
+
+Briefly explain why the error occurred:
+
+
+
+Briefly describe how the program can be fixed:
+
+
+
+=================================
+    Program 3: reverseArray.c
+=================================
+
+Paste the error message here:
+
+
+
+Briefly explain why the error occurred:
+
+
+
+Briefly describe how the program can be fixed:
+
+
+
+=================================
+    Program 4: listPrepend.c
+=================================
+
+Paste the error message here:
+
+
+
+Briefly explain why the error occurred:
+
+
+
+Briefly describe how the program can be fixed:
+
+
+
+=================================
+     Program 5: listAppend.c
+=================================
+
+Paste the error message here:
+
+
+
+Briefly explain why the error occurred:
+
+
+
+Briefly describe how the program can be fixed:
+
+
+
+=================================
+  Program 6: listDeleteFirst.c
+=================================
+
+Paste the error message here:
+
+
+
+Briefly explain why the error occurred:
+
+
+
+Briefly describe how the program can be fixed:
+
+
+
+=================================
+    Program 7: listNumEvens.c
+=================================
+
+Paste the error message here:
+
+
+
+Briefly explain why the error occurred:
+
+
+
+Briefly describe how the program can be fixed:
+
+
+
+=================================
+ Program 8: mostFrequentLetter.c
+=================================
+
+Paste the error message here:
+
+
+
+Briefly explain why the error occurred:
+
+
+
+Briefly describe how the program can be fixed:
+
+
+
