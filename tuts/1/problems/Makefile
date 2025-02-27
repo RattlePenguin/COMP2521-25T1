@@ -1,4 +1,4 @@
-objects := pointer malloc shift
+objects := pointer malloc shift listDelete
 all: $(objects)
 
 pointer: pointer.c
@@ -9,6 +9,10 @@ malloc: malloc.c
 
 shift: shift.c
 	gcc shift.c -o shift
+
+listDelete: listDelete.c
+	gcc listDelete.c -o listDelete
+
 
 clean:
 	rm -f $(objects)

@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include <List.h>
-
 // Linked List
 struct node {
     int value;
